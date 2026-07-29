@@ -1,36 +1,50 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&random=false&width=600&height=50&lines=Bonjour%2C+je+suis+Ibrahim+Tomota+%F0%9F%90%8D;%C3%89tudiant+en+IA+%26+Data+Science+%F0%9F%A7%A0;Machine+Learning+%26+Deep+Learning+%F0%9F%9A%80;Bienvenue+sur+mon+profil+GitHub+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vcenter=true&random=false&width=650&height=50&lines=Bonjour%2C+je+suis+Ibrahim+Tomota+%F0%9F%90%8D;%C3%89tudiant+en+IA+%26+Data+Science+%F0%9F%A7%A0;Machine+Learning+%26+Deep+Learning+%F0%9F%9A%80;Bienvenue+sur+mon+profil+GitHub+!+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://img.shields.io/badge/Focus-Intelligence%20Artificielle%20%26%20Data%20Science-007ACC?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="mailto:itomota11@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-itomota11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Localisation-Mali%20%F0%9F%87%B2%F0%9F%87%B1-008751?style=for-the-badge" />
+  <i>"Transforming data into intelligent insights & building software with passion."</i>
 </p>
 
 <p align="center">
-  <i>"Transforming data into intelligent insights & building software with passion."</i>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=itomota11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Me%20Contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/ibrahim-tomota-056756330" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Tomota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Tomota113" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Tomota113-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Localisation-Mali%20%F0%9F%87%B2%F0%9F%87%B1-008751?style=for-the-badge" alt="Localisation" />
 </p>
 
 ---
 
 ## 👨‍💻 À Propos de Moi
 
-```yaml
-Ibrahim_Tomota:
-  Rôle: Étudiant en Licence 2 - IA & Science des Données
-  Spécialités: 
-    - Machine Learning & Deep Learning
-    - Analyse de Données & Optimisation
-    - Développement d'Applications & Web API
-  Langages_de_Cœur: [Python, C++, Java, SQL, R]
-  Objectif: Concevoir des modèles IA innovants appliqués aux défis réels
-  Statut_Actuel: 🚀 En recherche continue d'apprentissage & de projets ambitieux
-```
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📌 Informations Clés</h3>
+      <ul>
+        <li>🎓 <b>Formation :</b> Étudiant en Licence 2 - <i>IA & Science des Données</i></li>
+        <li>📍 <b>Localisation :</b> Bamako, Mali 🇲🇱</li>
+        <li>💬 <b>Langues :</b> Français, Bambara</li>
+        <li>🚀 <b>Statut actuel :</b> En apprentissage continu & ouvert aux projets ambitieux</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Domaines d'Expertise & Objectifs</h3>
+      <ul>
+        <li>🧠 <b>Machine Learning & Deep Learning :</b> Conception et entraînement de modèles prédictifs</li>
+        <li>📊 <b>Data Analytics & Optimisation :</b> Traitement, analyse et valorisation des données</li>
+        <li>🌐 <b>Développement Web API :</b> Déploiement de modèles IA via Flask et services Web</li>
+        <li>💡 <b>Objectif :</b> Créer des applications intelligentes répondant à des défis réels</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -74,12 +88,12 @@ Ibrahim_Tomota:
 
 ## 🚀 Projets Phares
 
-<details>
+<details open>
 <summary><b>⚡ Détection de Fraude Électrique par l'IA (Projet STEG)</b></summary>
 <br>
 
 - **Description** : Modèle de Machine Learning entraîné sur des données de consommation d'énergie pour identifier les anomalies et fraudes sur le réseau électrique.
-- **Technologies** : Python, Scikit-Learn, Pandas, Matplotlib, Data Analytics.
+- **Technologies** : `Python` • `Scikit-Learn` • `Pandas` • `Matplotlib` • `Data Analytics`
 - **Fonctionnalités** : Prétraitement de séries temporelles, détection d'anomalies, tableaux de bord de suivi.
 </details>
 
@@ -88,7 +102,7 @@ Ibrahim_Tomota:
 <br>
 
 - **Description** : Application web complète permettant de classifier des fleurs d'Iris en temps réel via un modèle ML exposé par une API Flask.
-- **Technologies** : Python, Scikit-Learn, Flask, HTML5/CSS3.
+- **Technologies** : `Python` • `Scikit-Learn` • `Flask` • `HTML5/CSS3`
 - **Fonctionnalités** : Saisie interactive des paramètres botaniques, prédiction instantanée avec score de confiance.
 </details>
 
@@ -97,7 +111,7 @@ Ibrahim_Tomota:
 <br>
 
 - **Description** : Application de gestion de stock, ventes, tickets et alertes de réapprovisionnement pour commerces.
-- **Technologies** : Python, SQLite/MySQL, Tests Unitaires Pytest.
+- **Technologies** : `Python` • `SQLite/MySQL` • `Pytest`
 - **Fonctionnalités** : Exportation de billets/tickets, calcul de bénéfices, gestion dynamique d'alertes de stock.
 </details>
 
@@ -106,7 +120,7 @@ Ibrahim_Tomota:
 <br>
 
 - **Description** : Système de traitement du langage naturel et traduction/lexique axé sur la langue Bambara, avec scripts d'évaluation BLEU.
-- **Technologies** : Python, PyTorch, NLTK, Regex, C (optimisation native).
+- **Technologies** : `Python` • `PyTorch` • `NLTK` • `Regex` • `C`
 - **Fonctionnalités** : Nettoyage de corpus Wikipédien, dictionnaire de traduction automatique, génération de réponses.
 </details>
 
@@ -115,7 +129,7 @@ Ibrahim_Tomota:
 <br>
 
 - **Description** : Moteur de recommandation personnalisé suggérant des plats selon les préférences et contraintes des utilisateurs.
-- **Technologies** : Python, Filtrage Collaboratif / Basé sur le contenu.
+- **Technologies** : `Python` • `Filtrage Collaboratif / Content-Based`
 </details>
 
 ---
@@ -123,8 +137,8 @@ Ibrahim_Tomota:
 ## 📈 Statistiques GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tomota113&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomota113&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tomota113&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistiques GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomota113&layout=compact&theme=tokyonight&hide=html,css" alt="Langages les plus utilisés" />
 </p>
 
 <p align="center">
@@ -136,12 +150,12 @@ Ibrahim_Tomota:
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tomota113/Tomota113/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Tomota113/Tomota113/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" />
 </p>
 
 ---
 
-## 💬 Citation Aléatoire en Tech / IA
+## 💬 Citation & Inspiration
 
 <p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?author=true&theme=tokyonight" alt="Quote of the Day" />
@@ -149,8 +163,21 @@ Ibrahim_Tomota:
 
 ---
 
+## 📬 Me Contacter / Restons en Contact
+
+Vous souhaitez me contacter pour un projet, une collaboration ou échanger sur l'IA ?
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=itomota11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Envoyer%20un%20Email-via%20Gmail%20Web-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Web Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ibrahim-tomota-056756330" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Tomota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 <p align="center">
   <i>⚡ "The best way to predict the future is to invent it." – Alan Kay</i>
-  <br><br>
-  <b>N'hésitez pas à jeter un œil à mes répertoires et à me contacter pour toute collaboration !</b>
 </p>
+
