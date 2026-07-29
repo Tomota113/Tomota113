@@ -89,6 +89,24 @@
 ## 🚀 Projets Phares
 
 <details open>
+<summary><b>🌾 Prédiction des Prix Agricoles par l'IA (`mali-agri-price-predictor`)</b></summary>
+<br>
+
+- **Description** : Moteur de prévision temporelle par Machine Learning analysant et prédisant les prix des denrées alimentaires sur les marchés régionaux du Mali.
+- **Technologies** : `Python` • `Scikit-Learn (Random Forest)` • `Streamlit` • `Plotly` • `Pandas`
+- **Lien Répertoire** : 🔗 [github.com/Tomota113/mali-agri-price-predictor](https://github.com/Tomota113/mali-agri-price-predictor)
+</details>
+
+<details open>
+<summary><b>🛡️ Orchestrateur d'Agents IA Cyberdéfense (`mali-ai-security-orchestrator`)</b></summary>
+<br>
+
+- **Description** : Console SOC de simulation d'orchestration d'agents IA autonomes pour l'audit et l'évaluation de sécurité applicative sous MicroVM Sandboxes.
+- **Technologies** : `Python` • `Streamlit` • `Plotly` • `Pandas` • `Cybersecurity`
+- **Lien Répertoire** : 🔗 [github.com/Tomota113/mali-ai-security-orchestrator](https://github.com/Tomota113/mali-ai-security-orchestrator)
+</details>
+
+<details open>
 <summary><b>⚡ Détection d'Anomalies & Fraude Électrique par l'IA (`mali-energy-anomaly-detector`)</b></summary>
 <br>
 
