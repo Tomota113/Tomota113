@@ -89,6 +89,15 @@
 ## 🚀 Projets Phares
 
 <details open>
+<summary><b>🏙️ PROJET ULTIME : Plateforme Unifiée Mali Smart City AI (`mali-smart-city-ai`)</b></summary>
+<br>
+
+- **Description** : Plateforme composite de pilotage intelligent pour la ville de Bamako réunissant 3 modules IA (Smart Energy Grid, Agri Price Predictor, AI Security Orchestrator).
+- **Technologies** : `Python` • `Scikit-Learn (Isolation Forest & Random Forest)` • `Streamlit` • `Plotly` • `Pandas`
+- **Lien Répertoire** : 🔗 [github.com/Tomota113/mali-smart-city-ai](https://github.com/Tomota113/mali-smart-city-ai)
+</details>
+
+<details open>
 <summary><b>🩻 Assistant IA Triage Médical & Imagerie Thoracique (`mali-med-triage-ai`)</b></summary>
 <br>
 
