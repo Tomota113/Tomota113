@@ -89,6 +89,15 @@
 ## 🚀 Projets Phares
 
 <details open>
+<summary><b>🩻 Assistant IA Triage Médical & Imagerie Thoracique (`mali-med-triage-ai`)</b></summary>
+<br>
+
+- **Description** : Plateforme HealthTech d'analyse d'imagerie médicale par vision par ordinateur (OpenCV), détection d'opacité pulmonaire et triage multimodal (constantes vitales + imagerie) pour la télémédecine au Mali.
+- **Technologies** : `Python` • `OpenCV` • `Scikit-Learn` • `Streamlit` • `Plotly` • `HealthTech`
+- **Lien Répertoire** : 🔗 [github.com/Tomota113/mali-med-triage-ai](https://github.com/Tomota113/mali-med-triage-ai)
+</details>
+
+<details open>
 <summary><b>🌾 Prédiction des Prix Agricoles par l'IA (`mali-agri-price-predictor`)</b></summary>
 <br>
 
