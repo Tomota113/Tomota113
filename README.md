@@ -89,12 +89,21 @@
 ## 🚀 Projets Phares
 
 <details open>
-<summary><b>⚡ Détection de Fraude Électrique par l'IA (Projet STEG)</b></summary>
+<summary><b>⚡ Détection d'Anomalies & Fraude Électrique par l'IA (`mali-energy-anomaly-detector`)</b></summary>
 <br>
 
-- **Description** : Modèle de Machine Learning entraîné sur des données de consommation d'énergie pour identifier les anomalies et fraudes sur le réseau électrique.
-- **Technologies** : `Python` • `Scikit-Learn` • `Pandas` • `Matplotlib` • `Data Analytics`
-- **Fonctionnalités** : Prétraitement de séries temporelles, détection d'anomalies, tableaux de bord de suivi.
+- **Description** : Plateforme IA d'analyse de séries temporelles IoT et détection de fraudes/pertes non-techniques de consommation électrique pour le réseau au Mali.
+- **Technologies** : `Python` • `Scikit-Learn (Isolation Forest)` • `Streamlit` • `Plotly` • `Pandas`
+- **Lien Répertoire** : 🔗 [github.com/Tomota113/mali-energy-anomaly-detector](https://github.com/Tomota113/mali-energy-anomaly-detector)
+</details>
+
+<details open>
+<summary><b>📦 Prédiction Intelligente de Stock & Ventes (`mali-smart-inventory-forecast`)</b></summary>
+<br>
+
+- **Description** : Moteur de prévision temporelle par Machine Learning anticipant la demande de stock sur 30 jours et déclenchant les alertes de réapprovisionnement automatique pour le commerce au Mali.
+- **Technologies** : `Python` • `Scikit-Learn (Random Forest)` • `Streamlit` • `Plotly` • `Pandas`
+- **Lien Répertoire** : 🔗 [github.com/Tomota113/mali-smart-inventory-forecast](https://github.com/Tomota113/mali-smart-inventory-forecast)
 </details>
 
 <details>
