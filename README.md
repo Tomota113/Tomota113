@@ -137,12 +137,12 @@
 ## 📈 Statistiques GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tomota113&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistiques GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomota113&layout=compact&theme=tokyonight&hide=html,css" alt="Langages les plus utilisés" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Tomota113&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistiques GitHub" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tomota113&layout=compact&theme=tokyonight&hide=html,css" alt="Langages les plus utilisés" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomota113&theme=tokyonight" alt="Tomota113 GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomota113&theme=tokyonight" alt="Profil GitHub" />
 </p>
 
 ---
@@ -180,4 +180,5 @@ Vous souhaitez me contacter pour un projet, une collaboration ou échanger sur l
 <p align="center">
   <i>⚡ "The best way to predict the future is to invent it." – Alan Kay</i>
 </p>
+
 
