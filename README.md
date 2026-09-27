@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vcenter=true&random=false&width=650&height=50&lines=Bonjour%2C+je+suis+Ibrahim+Tomota+%F0%9F%90%8D;%C3%89tudiant+en+IA+%26+Data+Science+%F0%9F%A7%A0;Machine+Learning+%26+Deep+Learning+%F0%9F%9A%80;Bienvenue+sur+mon+profil+GitHub+!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vcenter=true&random=false&width=650&height=50&lines=Bonjour%2C+je+suis+Ibrahim+Tomota+%F0%9F%90%8D;%C3%89tudiant+en+IA+%26+Data+Science+%F0%9F%A7%A0;Software+Engineer+%26+Machine+Learning+%F0%9F%9A%80;Bienvenue+sur+mon+profil+GitHub+!+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <i>"Transforming data into intelligent insights & building software with passion."</i>
+  <i>"Transforming data into intelligent insights & building resilient software with passion."</i>
 </p>
 
 <p align="center">
@@ -30,17 +30,17 @@
       <ul>
         <li>🎓 <b>Formation :</b> Étudiant en Licence 2 - <i>IA & Science des Données</i></li>
         <li>📍 <b>Localisation :</b> Bamako, Mali 🇲🇱</li>
-        <li>💬 <b>Langues :</b> Français, Bambara</li>
-        <li>🚀 <b>Statut actuel :</b> En apprentissage continu & ouvert aux projets ambitieux</li>
+        <li>💬 <b>Langues :</b> Français, Bambara, Anglais technique</li>
+        <li>🚀 <b>Spécialités :</b> Software Engineering, Machine Learning, Computer Vision & Edge AI</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🎯 Domaines d'Expertise & Objectifs</h3>
       <ul>
-        <li>🧠 <b>Machine Learning & Deep Learning :</b> Conception et entraînement de modèles prédictifs</li>
-        <li>📊 <b>Data Analytics & Optimisation :</b> Traitement, analyse et valorisation des données</li>
-        <li>🌐 <b>Développement Web API :</b> Déploiement de modèles IA via Flask et services Web</li>
-        <li>💡 <b>Objectif :</b> Créer des applications intelligentes répondant à des défis réels</li>
+        <li>🧠 <b>Machine Learning & Deep Learning :</b> Modélisation prédictive, NLP, Vision par ordinateur (YOLO)</li>
+        <li>🖥️ <b>Logiciels & Applications Autonomes :</b> Conception d'exécutables de bureau et d'APIs résilientes</li>
+        <li>📊 <b>Data Analytics & Optimisation :</b> Traitement, valorisation et déploiement de modèles en production</li>
+        <li>💡 <b>Mission :</b> Créer des technologies robustes répondant à des défis économiques et sociétaux concrets</li>
       </ul>
     </td>
   </tr>
@@ -48,134 +48,73 @@
 
 ---
 
-## 🛠️ Stack Technique & Compétences
+## 🌟 Vitrines & Projets Phares
 
-### 🧠 Intelligence Artificielle & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
+### 👗 [Chic & Cheap — Logiciel de Bureau & Gestion Commerciale](https://github.com/Tomota113/chic_and_cheap)
+> **Application de bureau moderne autonome pour commerces et boutiques de prêt-à-porter.**  
+> *Fournie avec exécutable autonome en 1 clic (Windows `.exe` & binaire Linux x86_64) sans prérequis Python.*
 
-### 💻 Développement & Langages
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prolog-742676?style=for-the-badge&logo=prolog&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+[![Release](https://img.shields.io/github/v/release/Tomota113/chic_and_cheap?style=flat-square&color=38BDF8)](https://github.com/Tomota113/chic_and_cheap/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://github.com/Tomota113/chic_and_cheap/blob/main/LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg?style=flat-square)](https://github.com/Tomota113/chic_and_cheap/releases)
 
-### 🗄️ Bases de Données & Outils
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+- 🔐 Hachage sécurisé des accès par rôle (`bcrypt`), base locale embarquée `SQLite3`.
+- 💳 Caisse, gestion d'articles (tailles, couleurs, seuils de stock) et génération automatique de tickets PDF.
+- 📦 **[⬇️ Télécharger l'exécutable autonome](https://github.com/Tomota113/chic_and_cheap/releases/latest)**
 
 ---
 
-## 🚀 Projets Phares
+### 🏥 [PharmaLab Pro — Plateforme d'Excellence en Pharmacologie](https://github.com/Tomota113/pharmalab-pro)
+> **Progressive Web App (PWA) médicale et visualisateur moléculaire 3D pour étudiants et praticiens.**  
+> *Déployée en production sur Vercel avec fonctionnement 100% hors-ligne.*
 
-<details open>
-<summary><b>🏙️ PROJET ULTIME : Plateforme Unifiée Mali Smart City AI (`mali-smart-city-ai`)</b></summary>
-<br>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-pharmalab--pro.vercel.app-0d9488?style=flat-square&logo=vercel)](https://pharmalab-pro-dfgsp2.vercel.app)
+[![PWA](https://img.shields.io/badge/PWA-100%25%20Offline-4f46e5?style=flat-square)](https://pharmalab-pro-dfgsp2.vercel.app)
 
-- **Description** : Plateforme composite de pilotage intelligent pour la ville de Bamako réunissant 3 modules IA (Smart Energy Grid, Agri Price Predictor, AI Security Orchestrator).
-- **Technologies** : `Python` • `Scikit-Learn (Isolation Forest & Random Forest)` • `Streamlit` • `Plotly` • `Pandas`
-- **Lien Répertoire** : 🔗 [github.com/Tomota113/mali-smart-city-ai](https://github.com/Tomota113/mali-smart-city-ai)
-</details>
+- 🧬 Exploration 3D de structures moléculaires actives (`.sdf`) et index thérapeutique des antalgiques.
+- 💊 Base de données pharmacologique adaptée au contexte de santé et conformité LNME.
 
-<details open>
-<summary><b>🩻 Assistant IA Triage Médical & Imagerie Thoracique (`mali-med-triage-ai`)</b></summary>
-<br>
+---
 
-- **Description** : Plateforme HealthTech d'analyse d'imagerie médicale par vision par ordinateur (OpenCV), détection d'opacité pulmonaire et triage multimodal (constantes vitales + imagerie) pour la télémédecine au Mali.
-- **Technologies** : `Python` • `OpenCV` • `Scikit-Learn` • `Streamlit` • `Plotly` • `HealthTech`
-- **Lien Répertoire** : 🔗 [github.com/Tomota113/mali-med-triage-ai](https://github.com/Tomota113/mali-med-triage-ai)
-</details>
+### 🛡️ [Sentinel-Edge — SafeHome Africa (FarafinaLabs)](https://github.com/FarafinaLabs/Sentinel_edge)
+> **Système embarqué de vidéosurveillance intelligente Edge AI & détection d'intrusions.**
 
-<details open>
-<summary><b>🌾 Prédiction des Prix Agricoles par l'IA (`mali-agri-price-predictor`)</b></summary>
-<br>
+[![Vision](https://img.shields.io/badge/Inference-YOLOv8%20CPU-brightgreen?style=flat-square)](https://github.com/FarafinaLabs/Sentinel_edge)
+[![OpenCV](https://img.shields.io/badge/Vision-OpenCV%204.8-5C3EE8?style=flat-square)](https://github.com/FarafinaLabs/Sentinel_edge)
 
-- **Description** : Moteur de prévision temporelle par Machine Learning analysant et prédisant les prix des denrées alimentaires sur les marchés régionaux du Mali.
-- **Technologies** : `Python` • `Scikit-Learn (Random Forest)` • `Streamlit` • `Plotly` • `Pandas`
-- **Lien Répertoire** : 🔗 [github.com/Tomota113/mali-agri-price-predictor](https://github.com/Tomota113/mali-agri-price-predictor)
-</details>
+- 📹 Ingestion de flux vidéo RTSP/Webcam avec inférence ultra-légère optimisée pour CPU (YOLOv8n).
+- 🚨 Détection en temps réel de franchissement de périmètre et passerelle d'alertes télécom / Telegram.
 
-<details open>
-<summary><b>🛡️ Orchestrateur d'Agents IA Cyberdéfense (`mali-ai-security-orchestrator`)</b></summary>
-<br>
+---
 
-- **Description** : Console SOC de simulation d'orchestration d'agents IA autonomes pour l'audit et l'évaluation de sécurité applicative sous MicroVM Sandboxes.
-- **Technologies** : `Python` • `Streamlit` • `Plotly` • `Pandas` • `Cybersecurity`
-- **Lien Répertoire** : 🔗 [github.com/Tomota113/mali-ai-security-orchestrator](https://github.com/Tomota113/mali-ai-security-orchestrator)
-</details>
+## 🌍 Suite Innovation & IA pour le Mali
 
-<details open>
-<summary><b>⚡ Détection d'Anomalies & Fraude Électrique par l'IA (`mali-energy-anomaly-detector`)</b></summary>
-<br>
+Projets conçus et présentés comme Proofs of Concept (PoC) pour la valorisation du numérique :
 
-- **Description** : Plateforme IA d'analyse de séries temporelles IoT et détection de fraudes/pertes non-techniques de consommation électrique pour le réseau au Mali.
-- **Technologies** : `Python` • `Scikit-Learn (Isolation Forest)` • `Streamlit` • `Plotly` • `Pandas`
-- **Lien Répertoire** : 🔗 [github.com/Tomota113/mali-energy-anomaly-detector](https://github.com/Tomota113/mali-energy-anomaly-detector)
-</details>
+| Projet | Domaine | Stack Technique | Dépôt |
+|---|---|---|---|
+| **Mali Smart City AI** | Plateforme Unifiée Bamako | Python, Isolation Forest, Streamlit | [🔗 Accéder](https://github.com/Tomota113/mali-smart-city-ai) |
+| **Mali Med Triage AI** | HealthTech & Télémédecine | OpenCV, Scikit-Learn, Streamlit | [🔗 Accéder](https://github.com/Tomota113/mali-med-triage-ai) |
+| **Mali Agri Price Predictor** | Prédiction Prix Denrées | Machine Learning, Random Forest | [🔗 Accéder](https://github.com/Tomota113/mali-agri-price-predictor) |
+| **Mali Energy Anomaly** | Détection Fraude STEG | Time-Series ML, Isolation Forest | [🔗 Accéder](https://github.com/Tomota113/mali-energy-anomaly-detector) |
+| **Mali AI Security Orchestrator** | Cyberdéfense & MicroVM | Agents IA, Sandboxes, Streamlit | [🔗 Accéder](https://github.com/Tomota113/mali-ai-security-orchestrator) |
+| **Mali Smart Inventory** | Commerce & Prévision Stock | Random Forest, Time Series | [🔗 Accéder](https://github.com/Tomota113/mali-smart-inventory-forecast) |
 
-<details open>
-<summary><b>📦 Prédiction Intelligente de Stock & Ventes (`mali-smart-inventory-forecast`)</b></summary>
-<br>
+---
 
-- **Description** : Moteur de prévision temporelle par Machine Learning anticipant la demande de stock sur 30 jours et déclenchant les alertes de réapprovisionnement automatique pour le commerce au Mali.
-- **Technologies** : `Python` • `Scikit-Learn (Random Forest)` • `Streamlit` • `Plotly` • `Pandas`
-- **Lien Répertoire** : 🔗 [github.com/Tomota113/mali-smart-inventory-forecast](https://github.com/Tomota113/mali-smart-inventory-forecast)
-</details>
+## 🛠️ Stack Technique & Compétences
 
-<details>
-<summary><b>🌸 Classification Iris & Web API Flask</b></summary>
-<br>
-
-- **Description** : Application web complète permettant de classifier des fleurs d'Iris en temps réel via un modèle ML exposé par une API Flask.
-- **Technologies** : `Python` • `Scikit-Learn` • `Flask` • `HTML5/CSS3`
-- **Fonctionnalités** : Saisie interactive des paramètres botaniques, prédiction instantanée avec score de confiance.
-</details>
-
-<details>
-<summary><b>🛍️ Chic & Cheap - Gestion Commerciale & Stock</b></summary>
-<br>
-
-- **Description** : Application de gestion de stock, ventes, tickets et alertes de réapprovisionnement pour commerces.
-- **Technologies** : `Python` • `SQLite/MySQL` • `Pytest`
-- **Fonctionnalités** : Exportation de billets/tickets, calcul de bénéfices, gestion dynamique d'alertes de stock.
-</details>
-
-<details>
-<summary><b>🤖 Chatbot & NLP Bambara</b></summary>
-<br>
-
-- **Description** : Système de traitement du langage naturel et traduction/lexique axé sur la langue Bambara, avec scripts d'évaluation BLEU.
-- **Technologies** : `Python` • `PyTorch` • `NLTK` • `Regex` • `C`
-- **Fonctionnalités** : Nettoyage de corpus Wikipédien, dictionnaire de traduction automatique, génération de réponses.
-</details>
-
-<details>
-<summary><b>🍲 Système de Recommandation Culinaire</b></summary>
-<br>
-
-- **Description** : Moteur de recommandation personnalisé suggérant des plats selon les préférences et contraintes des utilisateurs.
-- **Technologies** : `Python` • `Filtrage Collaboratif / Content-Based`
-</details>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
@@ -186,35 +125,13 @@
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tomota113&layout=compact&theme=tokyonight&hide=html,css" alt="Langages les plus utilisés" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomota113&theme=tokyonight" alt="Profil GitHub" />
-</p>
-
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tomota113/Tomota113/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" />
-</p>
-
----
-
-## 💬 Citation & Inspiration
-
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=true&theme=tokyonight" alt="Quote of the Day" />
-</p>
-
----
-
-## 📬 Me Contacter / Restons en Contact
-
-Vous souhaitez me contacter pour un projet, une collaboration ou échanger sur l'IA ?
+## 📬 Me Contacter
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=itomota11@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Envoyer%20un%20Email-via%20Gmail%20Web-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Web Gmail" />
+    <img src="https://img.shields.io/badge/Envoyer%20un%20Email-via%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Web Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ibrahim-tomota-056756330" target="_blank">
@@ -225,5 +142,3 @@ Vous souhaitez me contacter pour un projet, une collaboration ou échanger sur l
 <p align="center">
   <i>⚡ "The best way to predict the future is to invent it." – Alan Kay</i>
 </p>
-
-
